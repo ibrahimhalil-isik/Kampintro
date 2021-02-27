@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{92A81396-DD12-40C2-ABC0-628EC491DF68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{EF9C0375-CC54-4251-B27F-BAFE8CDE6D69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{EF9C0375-CC54-4251-B27F-BAFE8CDE6D69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{5A46B0C3-5B7E-4680-AFC4-4FFFA02049F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{5A46B0C3-5B7E-4680-AFC4-4FFFA02049F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{0E2D82DE-0C04-428F-89CE-8E4E67B3083E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{5A46B0C3-5B7E-4680-AFC4-4FFFA02049F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A46B0C3-5B7E-4680-AFC4-4FFFA02049F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A46B0C3-5B7E-4680-AFC4-4FFFA02049F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2D82DE-0C04-428F-89CE-8E4E67B3083E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2D82DE-0C04-428F-89CE-8E4E67B3083E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2D82DE-0C04-428F-89CE-8E4E67B3083E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2D82DE-0C04-428F-89CE-8E4E67B3083E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
